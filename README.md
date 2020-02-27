@@ -1,2 +1,2 @@
 # Hello-world
-My first learn repositoriy 
+My first learn repository
